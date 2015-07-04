@@ -1,0 +1,43 @@
+
+.error {
+    color:red;
+}
+body{
+    font-style: italic;
+    font-family: cursive;
+    background-color: whitesmoke;
+     text-align: left;
+   // border: 1px solid #dedede;
+   // background-color: #FFE8EF;
+    width: 800px;
+    padding: 20px;
+}
+
+#pic{
+    
+      text-align: left;
+    
+    width: 800px;
+    padding: 20px;
+}
+#main{
+    
+    margin: auto;
+    margin-left: 50px;
+ }
+ 
+ 
+#topdiv{
+    background-color: whitesmoke;
+    
+    border: 4px outset whitesmoke;
+    border-radius: 10px;
+    border-color: azure;
+    overflow: hidden;
+    width: 600pt;
+    height: 600pt;
+    margin-left: 190pt;
+}
+
+
+ #commnet{border: black thin solid}

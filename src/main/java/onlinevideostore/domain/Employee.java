@@ -34,7 +34,9 @@ private String address;
  public Employee(){}
 
    
-
+ public String getFirstName(){
+       this.firstname=firstname;
+}
    
 
     

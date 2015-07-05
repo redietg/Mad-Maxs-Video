@@ -34,11 +34,18 @@ private String address;
  public Employee(){}
 
    
- public String getFirstName(){
+ public void setFirstName(String firstname){
        this.firstname=firstname;
 }
+ public String getFirstName(){return firstname;}
    
 
-    
+
+     public void setLastName(String lastname){
+       this.firstname=firstname;
+}
+ public String getLastName(){return lastname;}
+   
+
     
 }
